@@ -1,4 +1,4 @@
 ## Лабораторная работа № 5  
 Итоговый скриншот:  
-![screenshot](screen.jpg)​  
+![screenshot](screenshot.jpg)  
 
