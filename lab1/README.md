@@ -4,7 +4,7 @@
 1 Воспользовался cat для отображения файла  
 ls для отображения содержимого каталога  
 ZGFpejZhaFJhZVNhZXhhaWJ1YWYK  
- 
+ ![Картинка](screens/screens/1.jpg)
 
 2 Использовал cat ./* - для отображения всей информации  
 dGhlaWxpM2FoWm9odGFpM2VldzMK  
